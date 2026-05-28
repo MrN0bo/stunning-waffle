@@ -1,6 +1,6 @@
 import { MessageCircle, Facebook, MapPin, Phone } from "lucide-react";
 import { contactInfo } from "../data";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import logoImg from "../../imports/UPJ.png";
 
 export function Footer() {

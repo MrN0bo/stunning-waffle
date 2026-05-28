@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { ArrowRight, CheckCircle2 } from "lucide-react";
 import heroImg from "../../imports/1.jpeg";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";

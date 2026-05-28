@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { MessageCircle, Facebook, Phone, MapPin, Moon, Sun } from "lucide-react";
 import { contactInfo } from "../data";
 import logoImg from "../../imports/UPJ.png";

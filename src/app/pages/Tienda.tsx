@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { categories, products } from "../data";
 import { ArrowRight, MessageCircle } from "lucide-react";
 import { ImageWithFallback } from "../components/figma/ImageWithFallback";
