@@ -2,7 +2,7 @@
     "cleanUrls": true,
     "redirects": [
     {
-      "source": "/(.*)",
+      "source": "/index",
       "destination": "/",
       "permanent": true
     }
