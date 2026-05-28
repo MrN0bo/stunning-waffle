@@ -4,8 +4,7 @@
     {
       "source": "/index",
       "destination": "/",
-      "permanent": true,
-      "outputDirectory": "public"
+      "permanent": true
     }
     
   ]
